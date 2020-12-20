@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sc_field" type="id" />
+    <item name="btnRestart" type="id" />
+
+</resources>
